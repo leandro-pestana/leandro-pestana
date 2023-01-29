@@ -1,7 +1,7 @@
 # Hi, I'm Leandro Pestana
 * :house_with_garden: I'm living in São Paulo, Brazil.
-* :smiling_face_with_three_hearts:	 I loved technology and Tolkien's books.
-* :gear:  I work with SEO, BI, design and front-end developer.
+* :smiling_face_with_three_hearts:	 I love technology and Tolkien's books.
+* :gear:  I work with SEO, BI, CRM, design and front-end developer.
 * :mailbox_with_no_mail: How to reach me: leandrofap@gmail.com.
 * :pencil2: I also write some texts on my personal blog: http://pestana.dev.br/en/
 
